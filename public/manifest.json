@@ -1,0 +1,17 @@
+{
+  "name": "Lomé Events",
+  "short_name": "Lomé Events",
+  "description": "Billetterie officielle des événements à Lomé, Togo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1117",
+  "theme_color": "#0F1117",
+  "icons": [
+    {
+      "src": "/lome-events-logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

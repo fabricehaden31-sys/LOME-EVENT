@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 160" role="img" aria-labelledby="title">
+  <title id="title">Lom&#233; event</title>
+  <g fill="none" stroke="#ffb51b" stroke-linecap="round" stroke-width="7">
+    <path d="M59 16V3M31 25l-7-11M17 50 4 45M88 25l7-11M102 50l13-5M59 41V29"/>
+  </g>
+  <path fill="#ffb51b" d="M25 72a35 35 0 0 1 69 0H25Z"/>
+  <g transform="rotate(-10 60 87)">
+    <path fill="#174bff" d="M31 58h58a6 6 0 0 1 6 6v9a8 8 0 0 0 0 16v17a6 6 0 0 1-6 6H31a6 6 0 0 1-6-6V89a8 8 0 0 0 0-16v-9a6 6 0 0 1 6-6Z"/>
+    <path d="M50 62v46" stroke="#fff4de" stroke-dasharray="3 6" stroke-linecap="round" stroke-width="3"/>
+    <circle cx="80" cy="70" r="2.4" fill="#fff4de"/>
+    <circle cx="80" cy="80" r="2.4" fill="#fff4de"/>
+    <circle cx="80" cy="90" r="2.4" fill="#fff4de"/>
+  </g>
+  <g font-family="Trebuchet MS, Arial Rounded MT Bold, sans-serif" font-size="61" font-weight="900">
+    <text x="137" y="69" fill="#fff4de">Lom&#233;</text>
+    <text x="137" y="135" fill="#ffb51b">event</text>
+  </g>
+</svg>
